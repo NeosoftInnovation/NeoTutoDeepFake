@@ -2,23 +2,23 @@
 
 Bienvenue sur le tuto DeepFake de Neo-Soft !
 
-Dans ce tuto, nous allons voir comment changer le visage d'une personne par une autre dans une vidéo.
-Si vous n'êtes pas encore au courant du DeepFake, en voici une petite illustration <a href="https://www.youtube.com/watch?v=KWdjnDIo1uo" target="_blank">https://www.youtube.com/watch?v=KWdjnDIo1uo</a>.
+Dans ce tuto, nous allons voir comment changer le visage d'une personne par une autre dans une vidÃ©o.
+Si vous n'Ãªtes pas encore au courant du DeepFake, en voici une petite illustration <a href="https://www.youtube.com/watch?v=KWdjnDIo1uo" target="_blank">https://www.youtube.com/watch?v=KWdjnDIo1uo</a>.
 
-## Prérequis
+## PrÃ©requis
 
-Mais comme l'on obtient rien sans rien, ce tuto nécessite quelques prérequis :
+Mais comme l'on obtient rien sans rien, ce tuto nÃ©cessite quelques prÃ©requis :
 - un compte Google Drive !
 - un peu d'espace disque sur votre compte Google Drive... 2 Go
 - et... un peu de temps... 30 minutes
 
 ## Lancement du tuto dans Google Colab
 
-Cette page n'est qu'un point d'entrée, pour lancer le tuto cliquer sur le lien <a href="https://drive.google.com/open?id=1u7tw5lKkzh6HxPIAag0xKijOkISx3Ptc" target="_blank">https://drive.google.com/open?id=1u7tw5lKkzh6HxPIAag0xKijOkISx3Ptc</a> (fichier ipynb de Google Colab).
+Cette page n'est qu'un point d'entrÃ©e, pour lancer le tuto cliquer sur le lien <a href="https://drive.google.com/open?id=15mlhdomdYfBxlFhZhBhevjeoBQF1WX53" target="_blank">https://drive.google.com/open?id=15mlhdomdYfBxlFhZhBhevjeoBQF1WX53</a> (fichier ipynb de Google Colab).
 
-Si vous n'avez qu'un <img src="images/image2.png" style='vertical-align:middle;'/>, <a href="TODO" target="_blank">une petite étape préliminaire est nécessaire</a>.
+Si vous n'avez qu'un <img src="images/image2.png" style='vertical-align:middle;'/>, <a href="TODO" target="_blank">une petite Ã©tape prÃ©liminaire est nÃ©cessaire</a>.
 
-Sinon, vous n'avez plus qu'à cliquer sur <img src="images/image3.png" style='vertical-align:middle;'/> en haut de la page.
+Sinon, vous n'avez plus qu'Ã  cliquer sur <img src="images/image3.png" style='vertical-align:middle;'/> en haut de la page.
 
 Au bout du compte vous devriez arriver sur Google Colab :
 <img src="images/image4.png" height="600" />
