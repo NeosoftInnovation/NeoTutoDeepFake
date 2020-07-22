@@ -14,7 +14,7 @@ Mais comme l'on obtient rien sans rien, ce tuto nécessite quelques prérequis :
 
 ## Lancement du tuto dans Google Colab
 
-Cette page n'est qu'un point d'entrée, pour lancer le tuto cliquer sur le lien <a href="https://drive.google.com/open?id=15mlhdomdYfBxlFhZhBhevjeoBQF1WX53" target="_blank">https://drive.google.com/open?id=15mlhdomdYfBxlFhZhBhevjeoBQF1WX53</a> (fichier ipynb de Google Colab).
+Cette page n'est qu'un point d'entrée, pour lancer le tuto cliquer sur le lien <a href="https://drive.google.com/open?id=1vbB4dBATo3UpIL0CwalinrLz7TDifkcP" target="_blank">https://drive.google.com/open?id=1vbB4dBATo3UpIL0CwalinrLz7TDifkcP</a> (fichier ipynb de Google Colab).
 
 Si vous n'avez qu'un <img src="images/image2.png" style='vertical-align:middle;'/>, <a href="TODO" target="_blank">une petite étape préliminaire est nécessaire</a>.
 
